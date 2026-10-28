@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "DOG2 Prognosis Predictor | AGI",
+  "short_name": "DOG2 • AGI",
+  "description": "Animal Genome Institute research-use osteosarcoma RNA prognosis predictor",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF9F2",
+  "theme_color": "#006A32",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+# Do not accidentally commit real research input/output data
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.h5ad
+*.h5
+*.loom
+*.mtx
+*.mtx.gz
+*.rds
+# NOTE: frozen model assets needed by Shinylive are embedded in app.json
